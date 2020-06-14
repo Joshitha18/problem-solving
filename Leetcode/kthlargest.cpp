@@ -3,8 +3,7 @@ using namespace std;
 
 int main(){
 int n,i,j,count=0,k,size;
-cin>>n;
-cin>>k;
+cin>>n>>k;
 size=n;
 int a[1000],b[1000];
 
