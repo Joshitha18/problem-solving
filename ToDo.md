@@ -5,3 +5,4 @@
 * [Codeforces div3 #650](https://codeforces.com/contest/1367)
 * [Binary_Search_example](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/doghouses/)
 * [Codeforces div2 #651](https://codeforces.com/contest/1370)
+* [Codechef June CookOff](https://www.codechef.com/COOK119B/)
