@@ -9,7 +9,7 @@ public:
         }
         if(list1->data <= list2->data){
             list1->next = mergeTwoLists(list1->next,list2);
-            return l1;
+            return list1;
         }
         else{
             list2->next = mergeTwoLists(list1,list2->next);
