@@ -1,3 +1,34 @@
+/*
+insert node at begining
+insert node at end
+sorted insert
+insert at given pos
+
+Delete node at begining
+Delete node at end
+Delete node at given position
+delete first occurance of specific number
+delete last occurance of specific number
+delete rth occurance of specific number
+delete middle element
+
+Search for a node
+
+display linked list
+
+Reverse a LinkedList(changing link)
+Reverse between 2 positions(changing link)
+
+frequeny of a number
+
+return pos of middle element
+
+Pairwise swap by changing data
+Pairwise swap by changing links
+
+check loop
+*/
+
 #include <iostream>
 using namespace std;
 
