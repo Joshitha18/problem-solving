@@ -8,7 +8,7 @@ int fib(int n,int dp[]){
 	//Recursive
 	//Look Up
 	if(dp[n] != 0) return dp[n];
-	
+
 	int ans;
 	ans = fib(n-1,dp)+fib(n-2,dp);
 	return dp[n] = ans;
@@ -18,9 +18,10 @@ int fib(int n,int dp[]){
 
 int main() {
 int n;
+cout<<"Enter number 'n' to find nth fibonacci number: ";
 cin>>n;
 int dp[n+1]={0};
-cout<<fib(n,dp)<<endl;
+cout<<"output :"<<fib(n,dp)<<endl;
 
 return 0;
 }
@@ -29,3 +30,7 @@ return 0;
 Space O(n)
 Time O(n)
 */
+
+//sample input output
+//input: 10
+//output: 55
