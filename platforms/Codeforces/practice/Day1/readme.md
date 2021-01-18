@@ -1,0 +1,7 @@
+[problem1](https://codeforces.com/problemset/problem/231/A)
+[problem2](https://codeforces.com/problemset/problem/228/A)
+[problem3](https://codeforces.com/problemset/problem/236/A)
+[problem4](https://codeforces.com/problemset/problem/233/A)
+[problem5](https://codeforces.com/problemset/problem/214/A)
+[problem6](https://codeforces.com/problemset/problem/200/B)
+[problem7](https://codeforces.com/problemset/problem/734/B)
