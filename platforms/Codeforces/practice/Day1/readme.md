@@ -5,3 +5,6 @@
 [problem5](https://codeforces.com/problemset/problem/214/A)
 [problem6](https://codeforces.com/problemset/problem/200/B)
 [problem7](https://codeforces.com/problemset/problem/734/B)
+[problem8](https://codeforces.com/problemset/problem/1399/B)
+[problem9](https://codeforces.com/problemset/problem/1398/B)
+[problem10](https://codeforces.com/problemset/problem/1391/B)
