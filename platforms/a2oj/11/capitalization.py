@@ -1,0 +1,5 @@
+string = input()
+str_list = list(string)
+str_list[0] = str_list[0].upper()
+string = ''.join(str_list)
+print(string)
