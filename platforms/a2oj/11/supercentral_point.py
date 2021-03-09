@@ -1,0 +1,5 @@
+r = lambda: list(map(int,input().split()))
+l = list(r() for _ in range(int(input())))
+cm = lambda a,b:(a>b)-(a<b)
+p = sum(len({(cm(a,x),cm(b,y)) for a,b in l if (a == x or b == y)})>4 for x,y in l)
+print (p)
