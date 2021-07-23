@@ -1,0 +1,4 @@
+Basic sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort have O(n^2) complexity. 
+Better algorithms include Merge Sort, Quick Sort and Heap Sort which have O(nLogn) complexity.
+
+Iinbuilt sort function offers O(nlogn) complexity.
