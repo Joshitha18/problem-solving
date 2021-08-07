@@ -12,6 +12,8 @@ public:
         {
             if (s[i]=='(' || s[i] == '{' || s[i] == '[')
                 stk.push(s[i]);
+
+            else if ((s[i] == ')' || s[i] == ']'  || s[i] == '}' ) && stk.empty() ) return false;
             
             else if ((s[i] == ')' && stk.top() == '(') || (s[i] == ']' && stk.top() == '[') || (s[i] == '}' && stk.top() == '{') )
                 {  stk.pop();}
